@@ -30,7 +30,7 @@ public class Main {
             }
             RecInFileCSV.rec(listOfPenalties);
         } else {
-            System.out.println("Data for calculation not found");
+            System.out.println("Data for calculation not found!");
         }
     }
 }
